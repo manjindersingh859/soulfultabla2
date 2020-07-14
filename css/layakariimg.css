@@ -1,0 +1,28 @@
+img {
+    border: solid 4px black;
+    border-radius: 5px;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media only screen and (min-width: 600px) {
+    img {
+        width: 70%;
+    }
+}
+
+h2 {
+    font-family: 'Cinzel Decorative', cursive;
+    text-align: center;
+    font-weight: bold;
+    /* font-size: 40px; */
+    margin-top:2%;
+    margin-bottom: 4%;
+}
+@media screen and (max-width: 768px) {
+    h2{
+        font-size:25px;
+    }
+}

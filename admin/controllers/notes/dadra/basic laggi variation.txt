@@ -1,0 +1,6 @@
+ 1- धाड़ा नाती तिट, ताड़ा धाती धिट <br>
+               2-धिट धिट ताड़ा , तिट धिट धाड़ा <br>
+               3- धाती धाती ताड़ा, नाती धाती धाड़ा <br> <br>
+               1- dhara nati tit, tadha dhati dhit<br>
+               2- dhit dhit tara, tit dhit dhara<br>
+               3-dhati dhati tara, nati dhati dhara
